@@ -1,0 +1,2 @@
+def too():
+    pass
