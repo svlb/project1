@@ -1,2 +1,2 @@
 def too():
-    pass
+    return True
